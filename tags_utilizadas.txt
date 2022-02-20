@@ -1,0 +1,23 @@
+Registro abaixo de todas as tags usadas no projeto realizado pelo instrutor da Alura no curso de Formação Front End:
+
+<h1>
+
+<p>
+
+<strong>
+
+<em>
+
+<!DOCTYPE html> Passar informações para o navegador sobre qual versão do HTML estamos usando
+
+<meta charset="UTF-8"> É preciso apontar para o navegador que estamos usando um dicionário que tem acentos e cedilha.
+
+<html lang="pt-br">
+
+<title>
+
+<head> Tag de informações
+<body> Tag de conteúdo
+Na estrutura correta do HTML, inserimos as informações que queremos passar para o navegador no head e as tags de conteúdo no body.
+
+
