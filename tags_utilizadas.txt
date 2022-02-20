@@ -19,5 +19,13 @@ Registro abaixo de todas as tags usadas no projeto realizado pelo instrutor da A
 <head> Tag de informações
 <body> Tag de conteúdo
 Na estrutura correta do HTML, inserimos as informações que queremos passar para o navegador no head e as tags de conteúdo no body.
+_
+
+CSS
+
+<style> = CSS inline, adiciona na linha onde vamos mudar.
+
+text-align
+font-size
 
 
