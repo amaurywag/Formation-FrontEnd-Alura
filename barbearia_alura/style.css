@@ -2,8 +2,8 @@
     width: 100%;
 }
 .principal {
-    background-color: #CCCCCC;
-    padding: 20px;
+    background: #CCCCCC;
+    padding: 30px;
 }
 .titulo-principal {
     padding-left: 20px;
@@ -24,7 +24,7 @@ em strong{
     font-style: italic;
 }
 .beneficios {
-    background-color: #FFFFFF;~
+    background-color: #FFFFFF;
     padding: 20px;
 }
 ul {
@@ -35,5 +35,4 @@ ul {
 }
 .imgbeneficios {
     width: 50%;
-    display: inline-block;
 }
